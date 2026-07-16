@@ -1,4 +1,4 @@
-# Avalia Auto — API de Previsão de Preços de Veículos
+# Consulte Preço — API de Previsão de Preços de Veículos
 
 Projeto final de Análise de Dados que oferece uma API para prever o valor de veículos com base em características como marca, modelo, ano, quilometragem, estado de conservação e outros atributos. O sistema foi treinado com dados reais do mercado automotivo brasileiro e utiliza modelos de machine learning para estimar preços de forma rápida e precisa.
 
