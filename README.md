@@ -14,7 +14,7 @@ Ideal para:
 
 | Recurso | Endereço |
 |---|---|
-| 🌐 **Site do projeto** | [https://compare-preco.lovable.app/](https://compare-preco.lovable.app/) |
+| 🌐 **Site do projeto** | [https://avalia-auto.lovable.app/](https://avalia-auto.lovable.app/) |
 | ⚡ **API — endpoint de previsão** | [https://projeto-final-analise-dados-tarde-xc6j.onrender.com/prever](https://projeto-final-analise-dados-tarde-xc6j.onrender.com/prever) |
 | 🔌 **Base da API** | [https://projeto-final-analise-dados-tarde-xc6j.onrender.com](https://projeto-final-analise-dados-tarde-xc6j.onrender.com) |
 | 💾 **Repositório GitHub** | `[COLE_AQUI_A_URL_DO_SEU_REPOSITORIO]` |
