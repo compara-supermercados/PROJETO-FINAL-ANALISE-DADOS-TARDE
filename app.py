@@ -7,6 +7,8 @@ from supabase import create_client
 from dotenv import load_dotenv
 import os
 
+
+# load_dotenv()
 load_dotenv()
 
 tabela = create_client(
@@ -34,7 +36,7 @@ modelo.fit(X,y)
 def inicio():
     return jsonify({
        
-        "Resposta":"API online, Flask rodando corretamente"
+        "RESPOSTA🆗":"API online, Flask rodando corretamente🤖🤖🤖"
        
         })
    
