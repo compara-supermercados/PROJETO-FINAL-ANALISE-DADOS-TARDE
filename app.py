@@ -61,6 +61,7 @@ def prever():
             "preco":preco_formatado
         }
         tabela.table("historico_previsoes").insert(registros).execute()
+        # 💵💵💵💵💵💵
         return jsonify({"Preço":round(float(preco),2)})
     
     except Exception as erro:
